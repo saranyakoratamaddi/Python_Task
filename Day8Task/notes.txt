@@ -1,0 +1,9 @@
+File Handling
+Example 2: Reading a File 
+file = open("sample.txt", "r") 
+data = file.read() 
+print(data) 
+file.close() 
+Output 
+Hello Students 
+Welcome to Python File Handling

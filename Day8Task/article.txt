@@ -1,0 +1,3 @@
+Python:
+	Python is a widely used general purpose ,high level programming language. It was initially designed by Gudio Van Rossum in 1991 and developed by Python software 
+foundation. 
