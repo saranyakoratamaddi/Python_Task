@@ -1,0 +1,1 @@
+All student scores: Ram : 76 Krishna : 76 Rahul : 97 Karan : 47Students scoring above 50: Ram :76 Krishna :76 Rahul :97class average:74.00
